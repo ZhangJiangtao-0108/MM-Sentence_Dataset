@@ -20,7 +20,7 @@ This dataset contains 182 sign language sentences with a total of 34 sign words.
 11 volunteers are asked to perform the sign language sentences five times.
 As shown in feature, 14 upper body joints and 42 hand joint points of the volunteers are extracted by OpenPose as the skeletal modalities of the MM-Sentence dataset.
 Each instance in this datasets contains RGB videos, Skeletal, sEMG and IMU information of the signer.
-![Skeletal points]()
+![Skeletal points](https://github.com/ZhangJiangtao-0108/MM-Sentence_Dataset/blob/main/Image/Sekeltal-points.png)
 
 ## Reference
 ---
