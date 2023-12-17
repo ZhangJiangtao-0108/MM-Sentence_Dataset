@@ -1,6 +1,6 @@
 # MM-Sentence Dataset
 
-## Introduction
+
 ---
 
 
@@ -13,13 +13,14 @@ The MM-Sentence database is released to universities and research institutes for
 - Please scan the signed agreement, send it to (zhangjiangtao@mail.hfut.edu.cn) and CC to Prof. Wang (qswang@hfut.edu.cn). If you are a student, please also CC to the full-time staff member who sign the agreement.
 
 ## Introduction
+---
 We utilize logitech C922xPro Stream Web camera and the armband with built-in sEMG and IMU sensors to collect sign language data.
 Where the frame rate of the camera is 60fps and the resolution is 1920*1080 pixels.
 The sampling frequencies of sEMG and IMU sensors are 200Hz and 50Hz, respectively
 This dataset contains 182 sign language sentences with a total of 34 sign words.
 11 volunteers are asked to perform the sign language sentences five times.
 As shown in feature, 14 upper body joints and 42 hand joint points of the volunteers are extracted by OpenPose as the skeletal modalities of the MM-Sentence dataset.
-Each instance in this datasets contains RGB videos, Skeletal, sEMG and IMU information of the signer.
+Each instance in this datasets contains **RGB videos, Skeletal, sEMG and IMU** information of the signer.
 ![Skeletal points](https://github.com/ZhangJiangtao-0108/MM-Sentence_Dataset/blob/main/Image/Sekeltal-points.png)
 
 ## Reference
@@ -38,6 +39,7 @@ OpenPose Reference：
 - S.-E. Wei, V. Ramakrishna, T. Kanade, and Y. Sheikh, “Convolutional pose machines,” in CVPR, 2016, pp. 4724–4732.
 
 ## Contact
+---
 If you have any questions about the dataset and our papers, please feel free to contact us:
 - Qingshan wang, Professor, HFUT, qswang@hfut.edu.cn
 - Jiangtao Zhang, Ph.D Student, HFUT, zhangjiangtao@mail.hfut.edu.cn
