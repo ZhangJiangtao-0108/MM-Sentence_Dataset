@@ -1,17 +1,6 @@
 # MM-Sentence Dataset
 
 
----
-
-
-## Download
----
-The MM-Sentence database is released to universities and research institutes for research purpose only. To request the access right to the data resources, please follow the instructions below:
-- Download the [MM-Sentence Dataset Release Agreement](https://github.com/ZhangJiangtao-0108/MM-Sentence_Dataset/blob/main/MM-Sentence%20_Dataset%20_Release%20_Agreement.pdf);
-- Read all items and conditions carefully;
-- Complete it appropriately. Note that the agreement should be signed by a full-time staff member (that is, the student is not acceptable).
-- Please scan the signed agreement, send it to (zhangjiangtao@mail.hfut.edu.cn) and CC to Prof. Wang (qswang@hfut.edu.cn). If you are a student, please also CC to the full-time staff member who sign the agreement.
-
 ## Introduction
 ---
 We utilize logitech C922xPro Stream Web camera and the armband with built-in sEMG and IMU sensors to collect sign language data.
@@ -22,6 +11,16 @@ This dataset contains 182 sign language sentences with a total of 34 sign words.
 As shown in feature, 14 upper body joints and 42 hand joint points of the volunteers are extracted by OpenPose as the skeletal modalities of the MM-Sentence dataset.
 Each instance in this datasets contains **RGB videos, Skeletal, sEMG and IMU** information of the signer.
 ![Skeletal points](https://github.com/ZhangJiangtao-0108/MM-Sentence_Dataset/blob/main/Image/Sekeltal-points.png)
+
+
+## Download
+---
+The MM-Sentence database is released to universities and research institutes for research purpose only. To request the access right to the data resources, please follow the instructions below:
+- Download the [MM-Sentence Dataset Release Agreement](https://github.com/ZhangJiangtao-0108/MM-Sentence_Dataset/blob/main/MM-Sentence%20_Dataset%20_Release%20_Agreement.pdf);
+- Read all items and conditions carefully;
+- Complete it appropriately. Note that the agreement should be signed by a full-time staff member (that is, the student is not acceptable).
+- Please scan the signed agreement, send it to (zhangjiangtao@mail.hfut.edu.cn) and CC to Prof. Wang (qswang@hfut.edu.cn). If you are a student, please also CC to the full-time staff member who sign the agreement.
+
 
 ## Reference
 ---
