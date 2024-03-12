@@ -25,6 +25,7 @@ The MM-Sentence database is released to universities and research institutes for
 ## Reference
 ---
 Please cite the following papers if you use MM-Sentence dataset for your research:
+- J. Zhang, Q. Wang, and Q. Wang, “A Sign Language Recognition Framework Based on Cross-Modal Complementary Information Fusion,” IEEE Transactions on Multimedia, pp. 1–13, 2024, doi:10.1109/TMM.2024.3377095
 
   
 Besides, you can refer to the following papers for continuous SLR published by our group:
