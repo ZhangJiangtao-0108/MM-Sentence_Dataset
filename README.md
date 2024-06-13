@@ -29,8 +29,9 @@ Please cite the following papers if you use MM-Sentence dataset for your researc
 
   
 Besides, you can refer to the following papers for continuous SLR published by our group:
-- J. Zhang, Q. Wang, Q. Wang, and Z. Zheng, “Multimodal fusion framework based on statistical attention and contrastive attention for sign language recognition,” IEEE Transactions on Mobile Computing, pp. 1–13, 2023, doi:10.1109/TMC.2023.3235935
-- J. Zhang, Q. Wang, and Q. Wang, “HDTSLR: A framework based on hierarchical dynamic positional encoding for sign language recognition,” IEEE Transactions on Mobile Computing, pp. 1–13, 2023, doi:10.1109/TMC.2023.3310712
+- J. Zhang, Q. Wang, Q. Wang, and Z. Zheng, “Multimodal fusion framework based on statistical attention and contrastive attention for sign language recognition,” IEEE Transactions on Mobile Computing, vol. 23, no. 2, pp. 1431-1443, 2024.
+- J. Zhang, Q. Wang, and Q. Wang, “HDTSLR: A framework based on hierarchical dynamic positional encoding for sign language recognition,” IEEE Transactions on Mobile Computing, vol. 23, no. 5, pp. 5631-5643，2024.
+- J. Zhang, Q. Wang, and Q. Wang, “U-Shaped Distribution Guided Sign Language Emotion Recognition With Semantic and Movement Features,” IEEE Transactions on Affective Computing, pp. 1–13, 2023, doi:10.1109/TMC.2023.3310712
 
 OpenPose Reference：
 - Z. Cao, G. Hidalgo, T. Simon, S.-E. Wei, and Y. Sheikh, “Openpose: Realtime multi-person 2d pose estimation using part affinity fields,” IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 43, no. 1, pp. 172–186, 2021.
